@@ -1,15 +1,12 @@
 package model;
 
-public class task {
-    private String namaTugas;
-    private String deadline;
+public class task extends baseTask {
     private boolean selesai;
 
     public static final String DEFAULT_DEADLINE = "Tidak ditentukan";
 
     public task(String namaTugas, String deadline) {
-        this.namaTugas = namaTugas;
-        this.deadline = deadline.isEmpty() ? DEFAULT_DEADLINE : deadline;
+        super(namaTugas, deadline.isEmpty() ? DEFAULT_DEADLINE : deadline);
         this.selesai = false;
     }
 
@@ -21,6 +18,7 @@ public class task {
         return namaTugas;
     }
 
+    @Override
     public String getDeadline() {
         return deadline;
     }
