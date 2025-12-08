@@ -8,4 +8,5 @@ Project ini adalah aplikasi To-Do List berbasis Java dan JavaFX yang dibangun me
 
 ## ☕ Instruksi Menjalankan Program Java <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/java/java_48x48.png" alt="Java" width="30">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9aXZ-t0m-0v7cmdxB9h8T4XHhF6kWzlOX9w&s" alt="javaFX" width="30">
+ <img width="233" height="216" alt="download-removebg-preview" src="https://github.com/user-attachments/assets/99057d33-dd03-432e-bdfa-e18ad1054986" />
+
