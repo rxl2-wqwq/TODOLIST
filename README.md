@@ -23,7 +23,8 @@ Download
 
 Lalu Setup environment.
 
-Buat System variable baru untuk nama bebas sebernarnya tapi saya sarankan ```JAVA_HOME``` untuk variable value itu diisi oleh Alamat (Path) file ekstak anda.
+di environment Buat System variable baru untuk nama bebas sebernarnya tapi saya sarankan ```JAVA_HOME``` untuk variable value itu diisi oleh Alamat (Path) file ekstak anda.
 
+Untuk memverifikasi apakah JDK sudah terinstall, jalankan perintah java -version di terminal. Apakah versi Java muncul dan sudah sesuai? 
 
 
