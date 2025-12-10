@@ -14,4 +14,7 @@ Ikuti langkah-langkah di bawah ini untuk mendapatkan salinan proyek dan menjalan
 
 **🍎Mac OS :** [how to setup JavaFx on Mac](https://youtu.be/-W_GyGZV_ro?si=IXbaMPel2xxJ4lfC)
 
-**🪟Windows :** 
+**🪟Windows :** [How to Install JavaFX 2025 in VS Code | Complete Guide for Beginners | JavaFX Setup & Java GUI](https://youtu.be/oLXxXAya-60?si=42bhcxdc1V-RWxUl) 
+
+atau bisa gunakan cara ini
+
