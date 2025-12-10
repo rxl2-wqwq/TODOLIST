@@ -8,5 +8,5 @@ Project ini adalah aplikasi To-Do List berbasis Java dan JavaFX yang dibangun me
 
 ## ☕ Instruksi Menjalankan Program Java <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/java/java_48x48.png" alt="Java" width="30">
 
-Ikuti langkah-langkah di bawah ini untuk mendapatkan salinan proyek dan menjalankannya di prgam lokal Anda.
+Ikuti langkah-langkah di bawah ini untuk mendapatkan salinan proyek dan menjalankannya di progam javaFX lokal Anda.
 
