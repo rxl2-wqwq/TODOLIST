@@ -10,4 +10,4 @@ Project ini adalah aplikasi To-Do List berbasis Java dan JavaFX yang dibangun me
 
 Ikuti langkah-langkah di bawah ini untuk mendapatkan salinan proyek dan menjalankannya di progam javaFX lokal Anda.
 Linux
-* **Judul:** [install javafx 21 Linux mint 2024](http://www.youtube.com/watch?v=LuyWcqhDe0o)
+[install javafx 21 Linux mint 2024](http://www.youtube.com/watch?v=LuyWcqhDe0o)
