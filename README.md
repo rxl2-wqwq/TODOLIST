@@ -30,5 +30,5 @@ Untuk memverifikasi apakah JDK sudah terinstall, jalankan perintah ```javac --ve
 Setelah itu coba anda 
 
 
-```git clone [https://github.com/rxl2-wqwq/TODOLIST.git](https://github.com/rxl2-wqwq/TODOLIST.git)```
+``` bash git clone [https://github.com/rxl2-wqwq/TODOLIST.git](https://github.com/rxl2-wqwq/TODOLIST.git)```
 
