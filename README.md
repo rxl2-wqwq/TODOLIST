@@ -72,3 +72,6 @@ git clone [https://github.com/rxl2-wqwq/TODOLIST.git](https://github.com/rxl2-wq
 └── README.md
 ```
 _NB: jika kamu menggunakan jdk-full isi direktori lib tidak terlalu penting karena jdk-full sudah include libarary javaFX, berbeda dengan JDK standar modern tidak menyertakan modul JavaFX, sehingga modul-modul tersebut harus disertakan secara manual dalam direktori lib atau ditambahkan ke module path._
+
+lalu jalankan ```App.java``` pada package gui
+
