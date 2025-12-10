@@ -16,5 +16,9 @@ Ikuti langkah-langkah di bawah ini untuk mendapatkan salinan proyek dan menjalan
 
 **🪟Windows :** [How to Install JavaFX 2025 in VS Code | Complete Guide for Beginners | JavaFX Setup & Java GUI](https://youtu.be/oLXxXAya-60?si=42bhcxdc1V-RWxUl) 
 
-atau bisa gunakan cara ini
+atau jika kamu pengguna windows yang pemalas, bisa gunakan cara paling malas berikut.
+
+Download
+[Liberica Full JDK 25.0.1+13 x86 64 for Windows](https://bell-sw.com/pages/downloads/#jdk-25-lts)
+
 
