@@ -14,4 +14,7 @@ Linux
 [install javafx 21 Linux mint 2024](http://www.youtube.com/watch?v=LuyWcqhDe0o)
 
 Mac OS
-[install java fx on Mac](https://youtu.be/-W_GyGZV_ro?si=IXbaMPel2xxJ4lfC)
+[install javafx 21 on Mac](https://youtu.be/-W_GyGZV_ro?si=IXbaMPel2xxJ4lfC)
+
+
+**Video:** [install javafx 21 Linux mint 2024](http://www.youtube.com/watch?v=LuyWcqhDe0o)
