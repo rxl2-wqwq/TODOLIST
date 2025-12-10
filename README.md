@@ -35,4 +35,6 @@ git clone [https://github.com/rxl2-wqwq/TODOLIST.git](https://github.com/rxl2-wq
 ```
 Sebelum itu cek apakah git sudah terinstall atau belom, jalankan perintah ```git --version``` dan jika belom terinstall juga.
 
-Download [git software](https://git-scm.com/install/) coba cek lagi, Setelah berhasil copy repositori ke direktori lokal anda.
+Download [git software](https://git-scm.com/install/) coba cek lagi, Setelah berhasil copy repositori ke direktori lokal anda dengan cara ```bash 
+git clone [https://github.com/rxl2-wqwq/TODOLIST.git](https://github.com/rxl2-wqwq/TODOLIST.git)
+``` diterminal anda.
