@@ -25,6 +25,8 @@ Lalu Setup environment.
 
 di environment Buat System variable baru untuk nama bebas sebernarnya tapi saya sarankan ```JAVA_HOME``` untuk variable value itu diisi oleh Alamat (Path) file ekstak anda.
 
+lalu masuk ke System variables ```Path``` lalu masukkan ```%JAVA_HOME\bin%``` dan selesai
+
 Untuk memverifikasi apakah JDK sudah terinstall, jalankan perintah ```javac --version``` dan ```java --version``` di terminal. Apakah versi Java muncul dan sudah sesuai.
 
 Setelah itu coba anda 
