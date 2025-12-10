@@ -28,6 +28,5 @@ di environment Buat System variable baru untuk nama bebas sebernarnya tapi saya 
 Untuk memverifikasi apakah JDK sudah terinstall, jalankan perintah ```javac --version``` dan ```java --version``` di terminal. Apakah versi Java muncul dan sudah sesuai.
 
 Setelah itu coba anda 
-```
-git clone [https://github.com/rxl2-wqwq/TODOLIST.git](https://github.com/rxl2-wqwq/TODOLIST.git)
+```git clone [https://github.com/rxl2-wqwq/TODOLIST.git](https://github.com/rxl2-wqwq/TODOLIST.git)```
 
