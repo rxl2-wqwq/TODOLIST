@@ -14,3 +14,4 @@ Ikuti langkah-langkah di bawah ini untuk mendapatkan salinan proyek dan menjalan
 
 **🍎Mac OS :** [how to setup JavaFx on Mac](https://youtu.be/-W_GyGZV_ro?si=IXbaMPel2xxJ4lfC)
 
+**🪟Windows :** 
