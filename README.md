@@ -28,8 +28,11 @@ di environment Buat System variable baru untuk nama bebas sebernarnya tapi saya 
 Untuk memverifikasi apakah JDK sudah terinstall, jalankan perintah ```javac --version``` dan ```java --version``` di terminal. Apakah versi Java muncul dan sudah sesuai.
 
 Setelah itu coba anda 
-
+copy
 
 ```bash 
 git clone [https://github.com/rxl2-wqwq/TODOLIST.git](https://github.com/rxl2-wqwq/TODOLIST.git)
 ```
+Sebelum itu cek apakah git sudah terinstall atau belom, jalankan perintah ```git --version``` dan jika belom terinstall juga.
+
+Download [git software](https://git-scm.com/install/) coba cek lagi, Setelah berhasil copy repositori ke direktori lokal anda.
