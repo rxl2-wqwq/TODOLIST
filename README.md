@@ -19,6 +19,11 @@ Ikuti langkah-langkah di bawah ini untuk mendapatkan salinan proyek dan menjalan
 atau jika kamu pengguna windows yang pemalas, bisa gunakan cara paling malas berikut.
 
 Download
-[Liberica Full JDK 25.0.1+13 x86 64 for Windows](https://bell-sw.com/pages/downloads/#jdk-25-lts)
+[Liberica Full JDK 25.0.1+13 x86 64 for Windows](https://bell-sw.com/pages/downloads/#jdk-25-lts) dan ekstrak.
+
+Lalu Setup environment.
+
+Buat System variable baru untuk nama bebas sebernarnya tapi saya sarankan ```JAVA_HOME``` untuk variable value itu diisi oleh Alamat (Path) file ekstak anda.
+
 
 
