@@ -69,4 +69,4 @@ git clone [https://github.com/rxl2-wqwq/TODOLIST.git](https://github.com/rxl2-wq
 ├── .gitignore
 └── README.md
 ```
-NB: jika kamu menggunakan jdk-full isi direktori lib tidak terlalu penting karena jdk-full sudah include libarary javaFX, berbeda dengan jdk standard
+_NB: jika kamu menggunakan jdk-full isi direktori lib tidak terlalu penting karena jdk-full sudah include libarary javaFX, berbeda dengan jdk standard_
