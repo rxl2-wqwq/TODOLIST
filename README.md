@@ -40,3 +40,32 @@ Download [git software](https://git-scm.com/install/) coba cek lagi, Setelah ber
 git clone [https://github.com/rxl2-wqwq/TODOLIST.git](https://github.com/rxl2-wqwq/TODOLIST.git)
 ```
  diterminal anda.
+ 
+ harusnya Struktur 
+ ```
+ ├── lib
+│   ├── javafx-swt.jar
+│   ├── javafx.base.jar
+│   ├── javafx.controls.jar
+│   ├── javafx.fxml.jar
+│   ├── javafx.graphics.jar
+│   ├── javafx.media.jar
+│   ├── javafx.properties
+│   ├── javafx.swing.jar
+│   ├── javafx.web.jar
+│   ├── jdk.jsobject.jar
+│   ├── jfx.incubator.input.jar
+│   └── jfx.incubator.rich.jar
+├── src
+│   ├── controller
+│   │   └── taskManager.java
+│   ├── gui
+│   │   └── App.java
+│   ├── model
+│   │   ├── baseTask.java
+│   │   └── task.java
+│   └── utils
+│       └── taskFormatter.java
+├── .gitignore
+└── README.md
+```
