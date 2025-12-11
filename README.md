@@ -105,5 +105,13 @@ Tampilan Gui :
 
    d. Setelah ditekan, tugas langsung muncul di daftar di bawah.
 
+4. Daftar Tugas (ListView)
 
+   a. Menampilkan semua tugas yang sudah ditambahkan.
+
+   b. Setiap baris berisi teks tugas yang sudah diformat (taskFormatter), contoh:
+
+      ```[ ] Belajar Java - 2025-12-11```
+
+  c. Pengguna dapat memilih salah satu tugas dari daftar untuk diberi aksi.
 
