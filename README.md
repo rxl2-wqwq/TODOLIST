@@ -128,3 +128,58 @@ Tampilan Gui :
    a. Menghapus tugas yang dipilih dari daftar.
 
    b. Tugas akan hilang dari ListView setelah tombol ditekan.
+
+--- 
+
+## 📚 Materi Sebelum UTS yang Diimplementasikan
+
+---
+
+1️⃣ Object-Oriented Programming (OOP)
+
+**A. Class dan Object**
+   <p align="justify">
+   Program menggunakan sejumlah class seperti task, baseTask, taskManager, dan App untuk           membangun struktur aplikasi. Setiap tugas direpresentasikan sebagai object dari class           task, sedangkan taskManager mengelola kumpulan object tersebut.
+   </p>
+   
+**B. Constructor**
+   <p align="justify">
+   Constructor digunakan untuk menginisialisasi nilai awal object. Pada class task,                constructor mengisi nama, deadline, dan status selesai. Constructor di baseTask dipanggil       melalui super().
+   </p>
+   
+**C. Method**
+   <p align="justify">
+   Setiap class memiliki method untuk menjalankan fungsi tertentu. taskManager memiliki            method untuk menambah, menghapus, dan menandai tugas. Class taskFormatter menyediakan           method untuk memformat teks, dan class App memiliki method untuk memperbarui tampilan.
+   </p>
+   
+**D. Package**
+   <p align="justify">
+   Kode dipisahkan ke dalam package model, controller, gui, dan utils, sehingga struktur           program lebih rapi dan sesuai prinsip modularitas.
+   </p>
+   
+---
+
+2️⃣ Array dan Collection
+
+**A. ArrayList**
+  <p align="justify">
+   Program menggunakan ArrayList<task> untuk menyimpan daftar tugas. ArrayList dipilih karena      mendukung penambahan, penghapusan, dan pengaksesan data secara dinamis sesuai input pengguna.
+   </p>
+    
+**B. Looping Data**
+  <p align="justify">
+   Looping digunakan dalam updateList() untuk mengambil seluruh object task dari ArrayList dan     menampilkannya ke dalam ListView. Dengan looping, tampilan selalu sesuai dengan data terbaru    yang tersimpan.
+  </p>
+  
+**C. Reference Type dalam Collection**
+  <p align="justify">
+  ArrayList menyimpan reference ke object task, bukan nilai primitif. Hal ini membuat data        mudah diubah tanpa harus menyalin seluruh struktur.
+  </p>
+
+---
+
+3️⃣ Konstanta, Tipe Data, Kondisional, dan Looping
+    A. Konstanta
+    B. Primitive Types
+    C. Kondisional (if)
+    D. Looping
