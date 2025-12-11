@@ -206,40 +206,42 @@ Tampilan Gui :
  Struktur kondisional seperti if digunakan untuk memvalidasi input pengguna dan memastikan       operasi yang dilakukan valid. Contohnya, sebelum menghapus tugas, program memastikan index      yang dipilih berada dalam rentang yang benar. Selain itu, kondisional digunakan untuk           menerapkan deadline default jika pengguna tidak mengisi nilai tersebut.
  </p>
 
+---
+
 ## 🧠 Materi Setelah UTS (Non-GUI): Inheritance & Encapsulation
 
 Pada project To Do List ini, saya menggunakan dua konsep OOP penting yaitu **Inheritance (Pewarisan)** dan **Encapsulation (Enkapsulasi)**. Kedua konsep ini diterapkan pada struktur class yang mengatur data tugas.
 
+---
+
 Impementasi kedua materi meliputi 
 
 **🔷 1. Inheritance (Pewarisan)**
-        Inheritance adalah konsep dimana sebuah class dapat mewarisi atribut dan method dari class lain.
 
+<p align="justify">
+Inheritance adalah konsep dimana sebuah class dapat mewarisi atribut dan method dari class lain.
 Digunakan untuk membentuk hubungan antara class dasar dan class turunan sehingga atribut dan method dapat diwarisi.
+</p>
 
- • BaseTask
-
-   Berfungsi sebagai class induk yang menyimpan atribut dasar tugas, yaitu namaTugas dan deadline.
-   
-   Class ini menjadi fondasi bagi class turunan lain.
-
- • Task
-
-   Merupakan class anak yang mewarisi seluruh atribut dari baseTask.
-   
-   Class ini menambahkan fitur baru seperti status selesai, konstanta DEFAULT_DEADLINE, dan method tandaiSelesai().
-
+* <p align="justify">
+  Berfungsi sebagai class induk yang menyimpan atribut dasar tugas, yaitu namaTugas dan           deadline, class ini menjadi fondasi bagi class turunan lainnya.
+  </p>
+  
+* <p align="justify">
+  Merupakan class anak yang mewarisi seluruh atribut dari baseTask, class ini menambahkan fitur   baru seperti status selesai, konstanta DEFAULT_DEADLINE, dan method tandaiSelesai().            Inheritance ini membuat struktur program lebih modular, menghindari pengulangan kode, dan       memudahkan pengembangan.
+  </p>
 
 Inheritance ini membuat struktur program lebih modular, menghindari pengulangan kode, dan memudahkan pengembangan.
 
 **🔷 2. Encapsulation**
-        Encapsulation adalah konsep OOP yang menyembunyikan data (data hiding) sehingga hanya dapat diakses melalui method khusus.
 
-Digunakan untuk melindungi data agar tidak dapat diakses atau diubah langsung dari luar class.
+<p align="justify">       
+Encapsulation adalah konsep OOP yang menyembunyikan data (data hiding) sehingga hanya dapat diakses melalui method khusus. Digunakan untuk melindungi data agar tidak dapat diakses atau diubah langsung dari luar class.
+</p>
 
-• Atribut seperti namaTugas, deadline, dan selesai disembunyikan menggunakan private atau protected.
-
-Hal ini memastikan data hanya bisa diakses melalui method yang disediakan.
+* <p align="justify"> 
+  Atribut seperti namaTugas, deadline, dan selesai disembunyikan menggunakan akses modifier       private atau protected. Penyembunyian ini memastikan bahwa data tidak dapat diakses secara      langsung dari luar class, melainkan hanya melalui method yang memang disediakan untuk           keperluan tersebut.
+  </p>
 
 • Penyediaan getter method seperti getNamaTugas(), getDeadline(), dan isSelesai() untuk mengakses informasi secara aman.
 
