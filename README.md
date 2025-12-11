@@ -250,3 +250,10 @@ tandaiSelesai()
 sehingga menjaga konsistensi dan keamanan data.
 
 Enkapsulasi memastikan setiap perubahan data tetap terkontrol dan mencegah manipulasi langsung yang dapat memicu error.
+
+
+---
+
+<img width="481" height="649" alt="image" src="https://github.com/user-attachments/assets/5a0c1a76-5d2a-4787-bcf8-825427b9606a" />
+
+
