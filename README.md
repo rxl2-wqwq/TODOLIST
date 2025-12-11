@@ -260,7 +260,7 @@ Screenshot di bawah menampilkan proses aplikasi To-Do List beserta pembaruan daf
 
 <img width="481" height="649" alt="image" src="https://github.com/user-attachments/assets/5a0c1a76-5d2a-4787-bcf8-825427b9606a" />
 
-📑 Pembagian Tugas Anggota Kelompok
+## 📑 Pembagian Tugas Anggota Kelompok
 | NIM | Nama | Kontribusi |
 |----|------|----------------------|
 | *L0324001* | *[Abdul Latief](https://github.com/Latief342)* | <p align="justify"> Menyusun penjelasan program dan merapikan dokumentasi pada file README.md, mengimplementasikan fitur penambahan tugas pada paket yang digunakan, menata alur interaksi pengguna melalui antarmuka aplikasi, serta memastikan pengguna dapat menambahkan tugas baru dengan mengisi nama tugas dan deadline secara praktis dan terstruktur. </p> |
