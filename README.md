@@ -87,6 +87,14 @@ Tampilan Gui :
 
    Digunakan untuk mengetik nama atau judul tugas yang ingin ditambahkan ke daftar.
 
+2. Input Deadline
+
+   Menggunakan DatePicker dengan placeholder "Deadline".
+
+   Pengguna dapat memilih tanggal menggunakan ikon kalender.
+
+   Jika tidak dipilih, aplikasi akan menggunakan deadline default.
+
 
 
 
