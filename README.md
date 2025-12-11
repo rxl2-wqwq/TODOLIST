@@ -75,7 +75,7 @@ _NB: jika kamu menggunakan jdk-full isi direktori lib tidak terlalu penting kare
 
 lalu jalankan ```App.java``` pada package gui
 
-🧩 Penjelasan GUI
+## 🧩 Penjelasan GUI
 
 Tampilan Gui : 
 
