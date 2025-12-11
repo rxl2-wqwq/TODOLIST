@@ -75,3 +75,17 @@ _NB: jika kamu menggunakan jdk-full isi direktori lib tidak terlalu penting kare
 
 lalu jalankan ```App.java``` pada package gui
 
+🧩 Penjelasan GUI
+
+Tampilan Gui : 
+
+<img width="476" height="648" alt="image" src="https://github.com/user-attachments/assets/0248c3a8-38ad-4918-97c3-21db098214a7" />
+
+🟦 1. Input Nama Tugas
+      a. Berupa TextField dengan placeholder "Nama Tugas".
+      b. Digunakan untuk mengetik nama atau judul tugas yang ingin ditambahkan ke daftar.
+
+
+
+
+
