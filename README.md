@@ -260,6 +260,8 @@ Screenshot di bawah menampilkan proses aplikasi To-Do List beserta pembaruan daf
 
 <img width="481" height="649" alt="image" src="https://github.com/user-attachments/assets/5a0c1a76-5d2a-4787-bcf8-825427b9606a" />
 
+---
+
 ## 📑 Pembagian Tugas Anggota Kelompok
 | NIM | Nama | Kontribusi |
 |----|------|----------------------|
