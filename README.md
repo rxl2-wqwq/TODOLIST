@@ -247,11 +247,9 @@ Encapsulation adalah konsep OOP yang menyembunyikan data (data hiding) sehingga 
   Penyediaan getter method seperti getNamaTugas(), getDeadline(), dan isSelesai() untuk           mengakses informasi secara aman.
   </p>
 
-• Perubahan status hanya dapat dilakukan melalui method khusus seperti:
-
-tandaiSelesai()
-
-sehingga menjaga konsistensi dan keamanan data.
+* <p align="justify">
+  Perubahan terhadap status objek juga hanya dapat dilakukan melalui method khusus seperti        tandaiSelesai(), sehingga setiap perubahan tetap terkontrol dan konsisten. Pendekatan ini       menjaga keamanan data serta mencegah manipulasi yang tidak sesuai dengan aturan yang berlaku    dalam program.
+  </p>
 
 Enkapsulasi memastikan setiap perubahan data tetap terkontrol dan mencegah manipulasi langsung yang dapat memicu error.
 
