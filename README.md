@@ -111,7 +111,20 @@ Tampilan Gui :
 
    b. Setiap baris berisi teks tugas yang sudah diformat (taskFormatter), contoh:
 
-      ```[ ] Belajar Java - 2025-12-11```
+    ```[ ] Belajar Java - 2025-12-11```
 
-  c. Pengguna dapat memilih salah satu tugas dari daftar untuk diberi aksi.
+   c. Pengguna dapat memilih salah satu tugas dari daftar untuk diberi aksi.
 
+5. Tombol “Tandai Selesai”
+
+   a. Menandai tugas yang dipilih sebagai selesai.
+
+   b. Biasanya mengubah tampilan tugas menjadi:
+
+    ```[✓] Belajar Java - 2025-12-11```
+
+6. Tombol “Hapus”
+
+   a. Menghapus tugas yang dipilih dari daftar.
+
+   b. Tugas akan hilang dari ListView setelah tombol ditekan.
