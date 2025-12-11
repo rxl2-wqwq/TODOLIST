@@ -141,8 +141,6 @@ Tampilan Gui :
 
 ## 📚 Materi Sebelum UTS yang Diimplementasikan
 
----
-
 1️⃣ Object-Oriented Programming (OOP)
 
 **A. Class dan Object**
