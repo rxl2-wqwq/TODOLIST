@@ -183,3 +183,49 @@ Tampilan Gui :
     B. Primitive Types
     C. Kondisional (if)
     D. Looping
+
+
+## 🧠 Materi Setelah UTS (Non-GUI): Inheritance & Encapsulation
+
+Pada project To Do List ini, saya menggunakan dua konsep OOP penting yaitu **Inheritance (Pewarisan)** dan **Encapsulation (Enkapsulasi)**. Kedua konsep ini diterapkan pada struktur class yang mengatur data tugas.
+
+Impementasi kedua materi meliputi 
+
+**🔷 1. Inheritance (Pewarisan)**
+        Inheritance adalah konsep dimana sebuah class dapat mewarisi atribut dan method dari class lain.
+
+Digunakan untuk membentuk hubungan antara class dasar dan class turunan sehingga atribut dan method dapat diwarisi.
+
+ • BaseTask
+
+   Berfungsi sebagai class induk yang menyimpan atribut dasar tugas, yaitu namaTugas dan deadline.
+   
+   Class ini menjadi fondasi bagi class turunan lain.
+
+ • Task
+
+   Merupakan class anak yang mewarisi seluruh atribut dari baseTask.
+   
+   Class ini menambahkan fitur baru seperti status selesai, konstanta DEFAULT_DEADLINE, dan method tandaiSelesai().
+
+
+Inheritance ini membuat struktur program lebih modular, menghindari pengulangan kode, dan memudahkan pengembangan.
+
+**🔷 2. Encapsulation**
+        Encapsulation adalah konsep OOP yang menyembunyikan data (data hiding) sehingga hanya dapat diakses melalui method khusus.
+
+Digunakan untuk melindungi data agar tidak dapat diakses atau diubah langsung dari luar class.
+
+• Atribut seperti namaTugas, deadline, dan selesai disembunyikan menggunakan private atau protected.
+
+Hal ini memastikan data hanya bisa diakses melalui method yang disediakan.
+
+• Penyediaan getter method seperti getNamaTugas(), getDeadline(), dan isSelesai() untuk mengakses informasi secara aman.
+
+• Perubahan status hanya dapat dilakukan melalui method khusus seperti:
+
+tandaiSelesai()
+
+sehingga menjaga konsistensi dan keamanan data.
+
+Enkapsulasi memastikan setiap perubahan data tetap terkontrol dan mencegah manipulasi langsung yang dapat memicu error.
