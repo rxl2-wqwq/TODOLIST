@@ -1,10 +1,14 @@
 ## TODOLIST with JAVAFX
 
+---
+
 ## 📝 Deskripsi Program
 
 <p align="justify">
 Project ini adalah aplikasi To-Do List berbasis Java dan JavaFX yang dibangun menggunakan konsep OOP dan arsitektur MVC untuk menghasilkan aplikasi yang terstruktur dan mudah dikembangkan. Bagian model terdiri dari <code>baseTask</code> dan <code>task</code> yang merepresentasikan nama tugas, deadline, dan status penyelesaiannya, sementara <code>taskFormatter</code> digunakan untuk menampilkan tugas dalam format teks yang rapi dan informatif. Logika pengelolaan seperti menambah, menghapus, dan menandai tugas diselesaikan diatur oleh <code>taskManager</code> menggunakan struktur ArrayList. Seluruh fungsi ini dihubungkan melalui kelas <code>App</code> yang menghadirkan antarmuka grafis interaktif menggunakan JavaFX, lengkap dengan input tugas, pemilihan deadline, daftar tugas dalam ListView, serta tombol aksi seperti Tambah, Hapus, dan Tandai Selesai, sehingga aplikasi terasa sederhana, intuitif, dan responsif digunakan.
 </p>
+
+---
 
 ## ☕ Instruksi Menjalankan Program Java <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/java/java_48x48.png" alt="Java" width="30">
 
@@ -75,11 +79,15 @@ _NB: jika kamu menggunakan jdk-full isi direktori lib tidak terlalu penting kare
 
 lalu jalankan ```App.java``` pada package gui
 
+---
+
 ## 🧩 Penjelasan GUI
 
 Tampilan Gui : 
 
 <img width="476" height="648" alt="image" src="https://github.com/user-attachments/assets/0248c3a8-38ad-4918-97c3-21db098214a7" />
+
+---
 
 1. Input Nama Tugas
      
@@ -179,53 +187,23 @@ Tampilan Gui :
 ---
 
 3️⃣ Konstanta, Tipe Data, Kondisional, dan Looping
-    A. Konstanta
-    B. Primitive Types
-    C. Kondisional (if)
-    D. Looping
 
-
-## 🧠 Materi Setelah UTS (Non-GUI): Inheritance & Encapsulation
-
-Pada project To Do List ini, saya menggunakan dua konsep OOP penting yaitu **Inheritance (Pewarisan)** dan **Encapsulation (Enkapsulasi)**. Kedua konsep ini diterapkan pada struktur class yang mengatur data tugas.
-
-Impementasi kedua materi meliputi 
-
-**🔷 1. Inheritance (Pewarisan)**
-        Inheritance adalah konsep dimana sebuah class dapat mewarisi atribut dan method dari class lain.
-
-Digunakan untuk membentuk hubungan antara class dasar dan class turunan sehingga atribut dan method dapat diwarisi.
-
- • BaseTask
-
-   Berfungsi sebagai class induk yang menyimpan atribut dasar tugas, yaitu namaTugas dan deadline.
-   
-   Class ini menjadi fondasi bagi class turunan lain.
-
- • Task
-
-   Merupakan class anak yang mewarisi seluruh atribut dari baseTask.
-   
-   Class ini menambahkan fitur baru seperti status selesai, konstanta DEFAULT_DEADLINE, dan method tandaiSelesai().
-
-
-Inheritance ini membuat struktur program lebih modular, menghindari pengulangan kode, dan memudahkan pengembangan.
-
-**🔷 2. Encapsulation**
-        Encapsulation adalah konsep OOP yang menyembunyikan data (data hiding) sehingga hanya dapat diakses melalui method khusus.
-
-Digunakan untuk melindungi data agar tidak dapat diakses atau diubah langsung dari luar class.
-
-• Atribut seperti namaTugas, deadline, dan selesai disembunyikan menggunakan private atau protected.
-
-Hal ini memastikan data hanya bisa diakses melalui method yang disediakan.
-
-• Penyediaan getter method seperti getNamaTugas(), getDeadline(), dan isSelesai() untuk mengakses informasi secara aman.
-
-• Perubahan status hanya dapat dilakukan melalui method khusus seperti:
-
-tandaiSelesai()
-
-sehingga menjaga konsistensi dan keamanan data.
-
-Enkapsulasi memastikan setiap perubahan data tetap terkontrol dan mencegah manipulasi langsung yang dapat memicu error.
+**A. Konstanta**
+ <p align="justify">
+ Program menggunakan konstanta seperti DEFAULT_DEADLINE dalam class task. Konstanta ini          berfungsi sebagai nilai default ketika pengguna tidak menetapkan deadline. Penggunaan           konstanta  menjaga konsistensi nilai dan mencegah penulisan ulang string yang sama di banyak    tempat dalam program.
+ </p>
+  
+**B. Primitive Types**
+ <p align="justify">
+ Tipe data primitif digunakan untuk menyimpan nilai yang sederhana. Contohnya adalah variabel    boolean selesai, yang menunjukkan apakah sebuah tugas sudah diselesaikan oleh pengguna. Tipe    boolean dipilih karena nilainya hanya dua kemungkinan: selesai atau belum.
+ </p>
+  
+**C. Kondisional (if)**
+ <p align="justify">
+ Berbagai reference type digunakan di dalam program, seperti TextField, DatePicker, ListView,    dan ArrayList. Reference type ini digunakan untuk menyimpan objek yang lebih kompleks, seperti  elemen UI dan struktur data. Reference type memungkinkan program menangani banyak informasi     tanpa membebani memori dengan salinan data yang tidak diperlukan.
+ </p>
+  
+**D. Looping**
+ <p align="justify">
+ Struktur kondisional seperti if digunakan untuk memvalidasi input pengguna dan memastikan       operasi yang dilakukan valid. Contohnya, sebelum menghapus tugas, program memastikan index      yang dipilih berada dalam rentang yang benar. Selain itu, kondisional digunakan untuk           menerapkan deadline default jika pengguna tidak mengisi nilai tersebut.
+ </p>
