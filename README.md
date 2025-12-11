@@ -260,4 +260,11 @@ Screenshot di bawah menampilkan proses aplikasi To-Do List beserta pembaruan daf
 
 <img width="481" height="649" alt="image" src="https://github.com/user-attachments/assets/5a0c1a76-5d2a-4787-bcf8-825427b9606a" />
 
+📑 Pembagian Tugas Anggota Kelompok
+| NIM | Nama | Kontribusi |
+|----|------|----------------------|
+| *L0324001* | *Abdul Latief* | <p align="justify"> Menyusun penjelasan program dan merapikan dokumentasi pada file README.md, mengimplementasikan fitur penambahan tugas pada paket yang digunakan, menata alur interaksi pengguna melalui antarmuka aplikasi, serta memastikan pengguna dapat menambahkan tugas baru dengan mengisi nama tugas dan deadline secara praktis dan terstruktur. </p> |
+| *L0324024* | *Muhammad Ihsaan Al Fikri* | Merancang dan mengimplementasikan algoritma inti program, mengembangkan class pada package *model* dan *order*, melakukan pengelolaan repository termasuk upload source code ke GitHub, serta menyusun struktur awal file README.md. |
+| *L0324031* | *Rizal Arief Zuhdi* | Menyediakan perangkat awal sebagai dasar pengembangan program, merancang struktur kode sejak tahap awal, mengimplementasikan fitur pada package *builder* dan *inventory*, serta menambahkan dan melengkapi dokumentasi pada README.md. |
+
 
