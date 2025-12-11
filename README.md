@@ -243,7 +243,9 @@ Encapsulation adalah konsep OOP yang menyembunyikan data (data hiding) sehingga 
   Atribut seperti namaTugas, deadline, dan selesai disembunyikan menggunakan akses modifier       private atau protected. Penyembunyian ini memastikan bahwa data tidak dapat diakses secara      langsung dari luar class, melainkan hanya melalui method yang memang disediakan untuk           keperluan tersebut.
   </p>
 
-• Penyediaan getter method seperti getNamaTugas(), getDeadline(), dan isSelesai() untuk mengakses informasi secara aman.
+* <p align="justify"> 
+  Penyediaan getter method seperti getNamaTugas(), getDeadline(), dan isSelesai() untuk           mengakses informasi secara aman.
+  </p>
 
 • Perubahan status hanya dapat dilakukan melalui method khusus seperti:
 
