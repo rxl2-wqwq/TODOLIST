@@ -256,6 +256,8 @@ Enkapsulasi memastikan setiap perubahan data tetap terkontrol dan mencegah manip
 
 ---
 
+Screenshot di bawah menampilkan proses aplikasi To-Do List beserta pembaruan daftar tugas yang terjadi otomatis saat pengguna melakukan aksi.
+
 <img width="481" height="649" alt="image" src="https://github.com/user-attachments/assets/5a0c1a76-5d2a-4787-bcf8-825427b9606a" />
 
 
