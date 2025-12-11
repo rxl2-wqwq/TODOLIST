@@ -83,19 +83,27 @@ Tampilan Gui :
 
 1. Input Nama Tugas
      
-   Berupa TextField dengan placeholder "Nama Tugas".
+   a. Berupa TextField dengan placeholder "Nama Tugas".
 
-   Digunakan untuk mengetik nama atau judul tugas yang ingin ditambahkan ke daftar.
+   b. Digunakan untuk mengetik nama atau judul tugas yang ingin ditambahkan ke daftar.
 
 2. Input Deadline
 
-   Menggunakan DatePicker dengan placeholder "Deadline".
+   a. Menggunakan DatePicker dengan placeholder "Deadline".
 
-   Pengguna dapat memilih tanggal menggunakan ikon kalender.
+   b. Pengguna dapat memilih tanggal menggunakan ikon kalender.
 
-   Jika tidak dipilih, aplikasi akan menggunakan deadline default.
+   c. Jika tidak dipilih, aplikasi akan menggunakan deadline default.
 
+3. Tombol “Tambah”
 
+   a. Berfungsi untuk menambahkan tugas baru berdasarkan:
+
+   b. Nama tugas pada TextField
+
+   c. Deadline pada DatePicker
+
+   d. Setelah ditekan, tugas langsung muncul di daftar di bawah.
 
 
 
