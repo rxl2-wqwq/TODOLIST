@@ -269,4 +269,7 @@ Screenshot di bawah menampilkan proses aplikasi To-Do List beserta pembaruan daf
 | *L0324024* | *[Muhammad Ihsaan Al Fikri](https://github.com/Ihsaanalf)* | <p align="justify"> Melakukan implementasi OOP non-GUI dengan menerapkan prinsip enkapsulasi dan inheritance pada struktur program, merapikan serta memperbaiki dokumentasi dalam README.md, menata ulang dan membersihkan kode agar lebih terstruktur, serta melakukan full editing video demo untuk menampilkan alur kerja program secara jelas dan informatif. </p> |
 | *L0324031* | *[Rizal Arief Zuhdi](https://github.com/rxl2-wqwq)* | <p align="justify"> Membuat dan menyusun penjelasan program, merapikan serta memperbarui isi dokumentasi pada file README.md, mengembangkan fitur penambahan tugas pada paket yang terkait, merapikan struktur dan kualitas kode, serta menata alur interaksi pengguna melalui antarmuka agar pengguna dapat menambahkan tugas beserta deadline dengan mudah dan teratur. </p> |
 
+---
+
+## ▶️ Demo Youtube
 
